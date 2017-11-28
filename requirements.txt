@@ -1,0 +1,3 @@
+# requirements for mkaptrepo.py
+#
+pydpkg>=1.3.1
